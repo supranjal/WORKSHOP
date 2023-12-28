@@ -1,2 +1,2 @@
 # WORKSHOP
-This is where we pratice
+Lets pratice
